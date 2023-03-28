@@ -6,7 +6,7 @@ class Dog{
         this.size = size
     }
     bark(){
-        console.log('Woof! Woof!')
+        return 'Woof! Woof!'
     }
 }
 
